@@ -18,6 +18,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
@@ -25,24 +26,20 @@
 
 ---
 
-### 🏗️ Featured Projects
+### 🚀 Featured Projects
 
-#### 🖥️ [PrintMaster Zimbabwe](https://printmaster.co.zw)
-> **Magento-based printing services platform** – Designed and built for a streamlined client experience.
-
-#### 🏥 [Lucerna & Stern Health System](#)
-> **Nuxt + Vue + Prisma + MySQL** full health management platform with responsive design.
-
-#### 🚛 [Trucking Marketplace](#)
-> **Freelancer-style platform** connecting truck owners and load owners, with live tracking and offline payment integration.
-
-#### 🌐 [Axis Solutions](https://axissol.com)
-> **Web development, hosting, and domain solutions** company built with Laravel & Vue.
+| Project | Stack | Description |
+|----------|--------|-------------|
+| [**truckx**](https://github.com/tauraijob/truckx) | 🟢 Vue | Freight & logistics marketplace connecting truck owners and load owners. |
+| [**webdev-clients-feedback**](https://github.com/tauraijob/webdev-clients-feedback) | 🟢 Vue | Client review platform with admin feedback management & follow-ups. |
+| [**easy-translator-wp-plugin**](https://github.com/tauraijob/easy-translator-wp-plugin) | 🔵 PHP | WordPress plugin for simple multilingual content translation. |
+| [**care-management**](https://github.com/tauraijob/care-management) | 🟢 Vue | Health and facility management system for patient records & monitoring. |
+| [**madziwa**](https://github.com/tauraijob/madziwa) | 🟢 Vue | Custom platform with interactive features and modular UI. |
+| [**wecode**](https://github.com/tauraijob/wecode) | 🟢 Vue | Portfolio and project hub for showcasing creative development work. |
 
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
 
 ![Taurai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauraijob&show_icons=true&theme=vue-dark&hide_border=true&border_radius=15)  
@@ -54,10 +51,10 @@
 
 ### 💬 About Me
 - 💚 Passionate about building with **Nuxt.js, Vue.js, and Laravel**
-- ⚙️ Experienced with full-stack systems & API integrations
-- 🧠 Always learning **AI, APIs, and automation**
-- 💌 Reach me at: [tauraijob1111@gmail.com](mailto:tauraijob1111@gmail.com)
-- 🌍 Portfolio: [https://webdev.co.zw](https://wecode.co.zw)
+- ⚙️ Skilled in full-stack systems, APIs, and custom integrations
+- 🧠 Always learning **AI, automations, and new frameworks**
+- 💌 Email: [tauraijob1111@gmail.com](mailto:tauraijob1111@gmail.com)
+- 🌍 Portfolio: [https://wecode.co.zw](https://wecode.co.zw)
 
 ---
 
