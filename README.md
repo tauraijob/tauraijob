@@ -57,7 +57,7 @@
 - ⚙️ Experienced with full-stack systems & API integrations
 - 🧠 Always learning **AI, APIs, and automation**
 - 💌 Reach me at: [tauraijob1111@gmail.com](mailto:tauraijob1111@gmail.com)
-- 🌍 Portfolio: [https://webdev.co.zw](https://webdev.co.zw)
+- 🌍 Portfolio: [https://webdev.co.zw](https://wecode.co.zw)
 
 ---
 
